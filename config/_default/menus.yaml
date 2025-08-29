@@ -1,0 +1,61 @@
+leftnav:
+- identifier: b3bcda6c-5427-4127-a1b7-26a1dbec27b3
+  name: Neuroblox Course Home
+  pageRef: /external-resources/neuroblox-course-home
+  weight: 10
+- identifier: f8db43ad-a84f-4cb9-bf88-f38ddb02417c
+  name: Getting Started
+  pageRef: /external-resources/getting-started
+  weight: 20
+- identifier: 014242c2-9778-4421-851a-896908d5fbee
+  name: Introduction to Julia
+  pageRef: /external-resources/introduction-to-julia
+  weight: 30
+- identifier: 6c8d1666-5101-4f58-a493-6d8d42f517a9
+  name: Differential Equations with ModelingToolkit
+  pageRef: /external-resources/differential-equations-with-modelingtoolkit
+  weight: 40
+- identifier: 257f115b-b8b9-45de-ad38-c288a53b7fe5
+  name: Plotting with Makie
+  pageRef: /external-resources/plotting-with-makie
+  weight: 50
+- identifier: bc8dd91c-73ae-4fe5-8dd2-e0c71ff81df8
+  name: Blox and Connections in Neuroblox
+  pageRef: /external-resources/blox-and-connections-in-neuroblox
+  weight: 60
+- identifier: b3a3fe4c-62a1-4754-a572-99497e1e72dc
+  name: Neurons, Neural Masses, and Sources
+  pageRef: /external-resources/neurons-neural-masses-and-sources
+  weight: 70
+- identifier: b491362f-eeb8-4ba2-a4a0-0a1fff02e87d
+  name: Circuit Models in Neuroblox
+  pageRef: /external-resources/circuit-models-in-neuroblox
+  weight: 80
+- identifier: 628cb109-f86f-46df-accc-ca356b79bc06
+  name: Biomimetic Model of Corticostriatal Microassemblies
+  pageRef: /external-resources/biomimetic-model-of-corticostriatal-micro-assemblies
+  weight: 90
+- identifier: bc2ba09e-6762-4f4f-9c1a-e8e8af71b858
+  name: Pyramidal-Interneuron Gamma Network
+  pageRef: /external-resources/pyramidal-interneuron-gamma-network
+  weight: 100
+- identifier: 9e12b861-baf0-4fb0-988c-afad024d8222
+  name: Decision-Making in a Circuit Model
+  pageRef: /external-resources/decision-making-in-a-circuit-model
+  weight: 110
+- identifier: 97a072a8-aff8-4243-ac29-dffbee2dcce6
+  name: Synaptic Plasticity and Reinforcement Learning
+  pageRef: /external-resources/synaptic-plasticity-and-reinforcement-learning
+  weight: 120
+- identifier: 902ce2fb-565f-41d6-8026-e6d41a4a4502
+  name: Parameter Fitting Using Optimization
+  pageRef: /external-resources/parameter-fitting-using-optimization
+  weight: 130
+- identifier: 0b43ab78-599b-4ab3-8126-eed67f6a4f07
+  name: Parameter Fitting Using Spectral Dynamic Causal Modeling
+  pageRef: /external-resources/parameter-fitting-using-spectral-dynamic-causal-modeling
+  weight: 140
+- identifier: 3ce4367e-8c5b-468c-8744-a413660910f1
+  name: Experimental Design
+  pageRef: /external-resources/experimental-design
+  weight: 150
