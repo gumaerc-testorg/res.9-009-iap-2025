@@ -6,9 +6,10 @@ file: /ol-ocw-studio-app/courses/res-9-009-introduction-to-computational-neurosc
 file_size: 522945
 file_type: image/jpeg
 image_metadata:
-  caption: Visit the [Laboratory for Computational Neurodiagnostics website](https://www.lcneuro.org/)
-    to learn more about research on computational neuroscience. (Neuroblox screenshot
-    by permission of Prof. Lilianne Mujica-Parodi.)
+  caption: Visit the {{% resource_link "8e763546-b08d-4876-8ae3-9d1c50506aa1" "Laboratory
+    for Computational Neurodiagnostics website" %}} to learn more about research on
+    computational neuroscience. (Neuroblox screenshot by permission of Prof. Lilianne
+    Mujica-Parodi.)
   credit: ''
   image-alt: Comuper screenshot displaying a complex neurosimulation software program
     with multiple panels, graphs and heat maps display simulation results.
